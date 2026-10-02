@@ -94,5 +94,4 @@ Los usuarios de prueba por rol se agregan cuando esté lista la seguridad.
 
 ## Enlaces
 
-- Prototipo en Figma: (pendiente)
-- Tablero del backlog: pestaña **Projects** de este repositorio
+- Prototipo en Figma: https://chute-snort-93778442.figma.site/
